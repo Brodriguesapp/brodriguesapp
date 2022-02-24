@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi! ☺️
 
-<!--
-**Brodriguesapp/brodriguesapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Bruno Rodrigues Apparecido.
 
-Here are some ideas to get you started:
+Estudante de ADS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brodriguesapp&show_icons=true&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodriguesapp&layout=compact&theme=dark"/>
+  
+  </div>
+    
+    
+    ### 👍 Let's get connected:
+    
+    [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rodrigues-apparecido-42a1001b2)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno___90/)
+    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rodrigues.bruno.9)
