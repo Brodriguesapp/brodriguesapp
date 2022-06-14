@@ -4,7 +4,7 @@
 
 ## Estudante de ADS.
 
-### Nova jornada, migrando de árae mas bem motivado e atrás de novos conhecimentos !
+### Nova jornada, migrando de área mas bem motivado e atrás de novos conhecimentos !
 
 <div>
   
