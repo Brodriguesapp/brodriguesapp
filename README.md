@@ -2,9 +2,9 @@
 
 ## Eu sou Bruno Rodrigues Apparecido.
 
-## Estudante de ADS.
+## Systems Analysis and Development Student.
 
-### Nova jornada, migrando de área mas bem motivado e atrás de novos conhecimentos !
+### New journey, migrating from area but well motivated and looking for new knowledge! !
 
 <div>
   
