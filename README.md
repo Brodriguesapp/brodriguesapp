@@ -4,7 +4,7 @@
 
 ## Systems Analysis and Development Student.
 
-#### Nova jornada, migrando de área mas bem motivado e em busca de novos conhecimentos!! No momento estou cursando Análise e dessenvolvimentos de sistems, um curso pela Udemy de Egenheiro de Blockchain e um Bootcamp pela Dio.me e cada vez me encantando mais pela coisas que venho aprendendo.
+#### Nova jornada, migrando de área mas bem motivado e em busca de novos conhecimentos!! No momento estou cursando Análise e dessenvolvimentos de sistems, um curso pela Udemy de Egenheiro de Blockchain e um Bootcamp pela Dio.me e cada vez me encantando mais pelas coisas que venho conhecendo.
 
 
 
