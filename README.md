@@ -4,7 +4,11 @@
 
 ## Systems Analysis and Development Student.
 
-#### Nova jornada, migrando de área mas bem motivado e em busca de novos conhecimentos!! No momento estou cursando Análise e dessenvolvimentos de sistems, um curso pela Udemy de Egenheiro de Blockchain e um Bootcamp pela Dio.me e cada vez me encantando mais pelas coisas que venho conhecendo.
+#### Olá, sou estudante de Análise e Desenvolvimento de Sistemas pela Uninove, estudo também JavaScript, Engenheiro de Blockchain e UI/ UX pela Udemy.
+
+Sou comunicativo, prestativo, focado, responsável, detalhista, proativo e trabalho bem em equipe. Atencioso e gosto de ajudar quando vejo que está ao meu alcance. Sempre tento me manter atualizado.
+ 
+Desde muito novo sempre fui fascinado por tecnologia, por games e são coisas que ajudaram bastante na minha escolha para dar esse novo passo.
 
 
 
